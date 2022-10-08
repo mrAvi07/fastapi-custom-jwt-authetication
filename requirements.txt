@@ -1,0 +1,13 @@
+alembic==1.8.1
+email-validator==1.2.1
+fastapi==0.79.0
+psycopg2-binary==2.9.3
+pydantic==1.9.1
+PyJWT==2.4.0
+python-dotenv==0.20.0
+requests==2.28.1
+starlette==0.19.1
+SQLAlchemy==1.4.40
+SQLAlchemy-Utils==0.38.3
+uvicorn==0.18.2
+
