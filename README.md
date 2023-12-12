@@ -8,13 +8,13 @@ This repository provides a simple setup for JWT (JSON Web Token) authentication 
 
 ```bash
 git clone https://github.com/your-username/fastapi-jwt-authentication.git
-cd fastapi-jwt-authentication
+cd fastapi-custom-jwt-authetication
 ```
 
-2. Create a virtual environment (optional but recommended):
+2. Create a virtual environment and activate (optional but recommended):
 
 ```bash
-python -m venv venv
+virtualenv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 ```
 
