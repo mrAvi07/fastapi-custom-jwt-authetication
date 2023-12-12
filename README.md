@@ -28,7 +28,8 @@ pip install -r requirements.txt
 ```bash
 uvicorn main:app --reload
 ```
-### Visit http://localhost:8000/docs in your browser to access the FastAPI Swagger documentation and interact with the API.
+
+Visit http://localhost:8000/docs in your browser to access the FastAPI Swagger documentation and interact with the API.
 
 
 This repository serves as a starting point for implementing JWT authentication in FastAPI. FastAPI is a modern, fast, web framework for building APIs with Python 3.7+ based on standard Python type hints.
